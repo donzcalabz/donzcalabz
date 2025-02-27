@@ -42,8 +42,8 @@ I specialize in **backend and frontend development**, working with various frame
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" width="50%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" width="50%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?donzcalabz=your-username&show_icons=true&theme=dark" width="50%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donzcalabz&theme=dark" width="50%" alt="GitHub Streak" />
 </p>
 
 ---
