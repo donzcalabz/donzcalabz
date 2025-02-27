@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Donss 👋</h1>
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo.svg?style=social)](https://github.com/your-username/your-repo/stargazers)
 
 💻 **Software Developer** | 🌐 **Full-Stack Engineer** | 🚀 **Tech Enthusiast**  
 
