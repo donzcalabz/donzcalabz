@@ -48,14 +48,6 @@ I specialize in **backend and frontend development**, working with various frame
 
 ---
 
-//## 📌 Pinned Projects  
-- 🚀 [Project Name 1](https://github.com/your-username/project-1) – **[Short Description]**  
-- 🌐 [Project Name 2](https://github.com/your-username/project-2) – **[Short Description]**  
-- 🛠 [Project Name 3](https://github.com/your-username/project-3) – **[Short Description]**  
-
----
-
 ## 📫 Let's Connect!  
-- 💼 [LinkedIn](https://linkedin.com/in/your-username)  
-- 📝 [Portfolio](https://your-portfolio.com)  
-- 📧 [Email](mailto:your-email@example.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/adonis-calabia-a00578189)    
+- 📧 [Email](mailto:donzcalabz@gmail.com)  
