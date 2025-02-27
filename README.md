@@ -48,7 +48,7 @@ I specialize in **backend and frontend development**, working with various frame
 
 ---
 
-## 📌 Pinned Projects  
+//## 📌 Pinned Projects  
 - 🚀 [Project Name 1](https://github.com/your-username/project-1) – **[Short Description]**  
 - 🌐 [Project Name 2](https://github.com/your-username/project-2) – **[Short Description]**  
 - 🛠 [Project Name 3](https://github.com/your-username/project-3) – **[Short Description]**  
