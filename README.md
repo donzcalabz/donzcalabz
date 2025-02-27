@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Donss 👋</h1>
 
 💻 **Software Developer** | 🌐 **Full-Stack Engineer** | 🚀 **Tech Enthusiast**  
 
 I specialize in **backend and frontend development**, working with various frameworks and databases to build scalable applications. Passionate about coding, problem-solving, and creating efficient solutions.  
 
-🔭 Currently working with **Next.js, NestJS, Spring Boot, PostgreSQL, and Firebase**  
+🔭 Currently working with **Next.js, NestJS, Spring Boot, and PostgreSQL**  
 🌱 Exploring **Cloud Computing & Microservices Architecture**  
 ⚡ Fun fact: I love working with **high-performance and scalable applications**  
 
